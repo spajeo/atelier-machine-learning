@@ -2,7 +2,7 @@
 
 Exercices shared amoungst 42 students
 
-1. [Python exercices](https://github.com/spajeo/atelier-machine-learning/tree/master/PythonBeginner)
+1. [Python exercices](https://github.com/spajeo/atelier-machine-learning/tree/master/PythonBeginner)   
   from Coursera
   
 2. [Linear Regression]()  
