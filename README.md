@@ -1,11 +1,11 @@
 # atelier-machine-learning
 
-Exercices shared amoungst 42 students
+Exercices shared amoungst [42-ai](https://github.com/42-AI/ateliers-ml) students in order to understand new algorithms.
 
 1. [Python exercices](https://github.com/spajeo/atelier-machine-learning/tree/master/PythonBeginner)   
   from Coursera
   
-2. [Linear Regression]()  
+2. [Linear Regression](https://github.com/spajeo/atelier-machine-learning/tree/master/LinearRegression)  
   from Coursera
   
 1. [Logistic Regression](https://github.com/spajeo/atelier-machine-learning/tree/master/LogisticRegression)  
@@ -23,5 +23,8 @@ Exercices shared amoungst 42 students
 1. [Naive Bayes](https://github.com/spajeo/atelier-machine-learning/tree/master/naiveBayes)  
   from Coursera
 
-1. [K-means](https://github.com/spajeo/atelier-machine-learning/tree/master/K-means_PCA)*(unfinished)*  
+1. [K-means and PCA](https://github.com/spajeo/atelier-machine-learning/tree/master/K-means_PCA)*(unfinished)*  
+  from Coursera
+
+1. [Reinforcement Learning UCB]()*(unfinished)*  
   from Coursera
