@@ -17,11 +17,11 @@ Exercices shared amoungst 42 students
 1. [Descision Tree and Random Forest](https://github.com/spajeo/atelier-machine-learning/tree/master/naiveBayes)  
   made by me
   
-1. [K nearest neighbor*(unfinished)*]()  
+1. [K nearest neighbor]()*(unfinished)*  
   made out of a random datasheet
   
 1. [Naive Bayes](https://github.com/spajeo/atelier-machine-learning/tree/master/naiveBayes)  
   from Coursera
 
-1. [K-means*(unfinished)*](https://github.com/spajeo/atelier-machine-learning/tree/master/K-means_PCA)  
+1. [K-means](https://github.com/spajeo/atelier-machine-learning/tree/master/K-means_PCA)*(unfinished)*  
   from Coursera
