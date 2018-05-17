@@ -11,7 +11,7 @@ Exercices shared amoungst [42-ai](https://github.com/42-AI/ateliers-ml) students
 1. [Logistic Regression](https://github.com/spajeo/atelier-machine-learning/tree/master/LogisticRegression)  
   from Coursera
   
-1. [SVM *(unfinished)*](https://github.com/spajeo/atelier-machine-learning/blob/master/SVM/Semaine4-exercices.ipynb)  
+1. [SVM](https://github.com/spajeo/atelier-machine-learning/blob/master/SVM/Semaine4-exercices.ipynb)  
   from Coursera
   
 1. [Descision Tree and Random Forest](https://github.com/spajeo/atelier-machine-learning/tree/master/naiveBayes)  
