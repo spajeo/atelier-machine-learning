@@ -18,7 +18,7 @@ Exercices shared amoungst [42-ai](https://github.com/42-AI/ateliers-ml) students
   made by me
   
 1. [K nearest neighbor](https://github.com/spajeo/atelier-machine-learning/tree/master/Knn) 
-  made out of a random datasheet
+  recode knn and use it on a dataset
   
 1. [Naive Bayes](https://github.com/spajeo/atelier-machine-learning/tree/master/naiveBayes)  
   from Coursera
