@@ -17,7 +17,7 @@ Exercices shared amoungst [42-ai](https://github.com/42-AI/ateliers-ml) students
 1. [Descision Tree and Random Forest](https://github.com/spajeo/atelier-machine-learning/tree/master/naiveBayes)  
   made by me
   
-1. [K nearest neighbor](https://github.com/spajeo/atelier-machine-learning/tree/master/Knn) 
+1. [K nearest neighbor](https://github.com/spajeo/atelier-machine-learning/tree/master/Knn)       
   recode knn and use it on a dataset
   
 1. [Naive Bayes](https://github.com/spajeo/atelier-machine-learning/tree/master/naiveBayes)  
