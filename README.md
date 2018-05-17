@@ -23,7 +23,7 @@ Exercices shared amoungst [42-ai](https://github.com/42-AI/ateliers-ml) students
 1. [Naive Bayes](https://github.com/spajeo/atelier-machine-learning/tree/master/naiveBayes)  
   from Coursera
 
-1. [K-means and PCA](https://github.com/spajeo/atelier-machine-learning/tree/master/K-means_PCA)*(unfinished)*  
+1. [K-means and PCA](https://github.com/spajeo/atelier-machine-learning/tree/master/K-means_PCA)     
   from Coursera
 
 1. [Reinforcement Learning UCB](https://github.com/spajeo/atelier-machine-learning/tree/master/ReinforcementLearning/UCB)     
