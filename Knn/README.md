@@ -1,4 +1,4 @@
-# Pros and Cons of KNN
+# KNN
 
 ## Pros
 * It is extremely easy to implement
