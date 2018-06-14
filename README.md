@@ -30,5 +30,5 @@ Exercices shared amoungst [42-ai](https://github.com/42-AI/ateliers-ml) students
   from Udemy & @aslusarc
   
   
-1. [neuralNetwork](https://github.com/spajeo/atelier-machine-learning/tree/master/neuralNetwork)
+1. [neuralNetwork](https://github.com/spajeo/atelier-machine-learning/tree/master/neuralNetwork)    
   from @atrudel
