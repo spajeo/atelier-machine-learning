@@ -26,9 +26,9 @@ Exercices shared amoungst [42-ai](https://github.com/42-AI/ateliers-ml) students
 1. [K-means and PCA](https://github.com/spajeo/atelier-machine-learning/tree/master/K-means_PCA)     
   from Coursera
 
-1. [Reinforcement Learning UCB](https://github.com/spajeo/atelier-machine-learning/tree/master/ReinforcementLearning/UCB)     
+1 & 10. [Reinforcement Learning UCB](https://github.com/spajeo/atelier-machine-learning/tree/master/ReinforcementLearning/UCB)     
   from Udemy & @aslusarc
   
   
-1. [Neural Network](https://github.com/spajeo/atelier-machine-learning/tree/master/neuralNetwork)    
+11. [Neural Network](https://github.com/spajeo/atelier-machine-learning/tree/master/neuralNetwork)    
   from @atrudel
