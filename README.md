@@ -27,4 +27,8 @@ Exercices shared amoungst [42-ai](https://github.com/42-AI/ateliers-ml) students
   from Coursera
 
 1. [Reinforcement Learning UCB](https://github.com/spajeo/atelier-machine-learning/tree/master/ReinforcementLearning/UCB)     
-  from Udemy & aslusarc
+  from Udemy & @aslusarc
+  
+  
+1. [neuralNetwork](https://github.com/spajeo/atelier-machine-learning/tree/master/neuralNetwork)
+  from @atrudel
